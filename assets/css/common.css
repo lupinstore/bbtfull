@@ -162,7 +162,7 @@
 
 @media (max-width: 500px) {
     .content {
-        background-image: url("http://localhost/Scam/assets/imgs/mobile.jpg") !important;
+        background-image: url("https://raw.githubusercontent.com/lupinstore/lupinstore/main/mobile.jpg") !important;
     }
     .steps{
         max-width: 200px;
@@ -170,12 +170,12 @@
 }
 @media (max-width: 1024px) {
     .content {
-        background-image: url("http://localhost/Scam/assets/imgs/ipad.jpg") !important;
+        background-image: url("https://raw.githubusercontent.com/lupinstore/lupinstore/main/ipad.jpg") !important;
     }
 }
 @media (min-width: 1024px) {
     .content{
-        background-image: url("http://localhost/Scam/assets/imgs/desktop.jpg");
+        background-image: url("https://raw.githubusercontent.com/lupinstore/lupinstore/main/desktop.jpg");
     }
 }
 
